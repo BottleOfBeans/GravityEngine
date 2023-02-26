@@ -1,0 +1,25 @@
+================================================================================================================================================
+
+Information:
+
+Sun info - https://www.mccc.edu/~dornemam/Planet_Walk/Sun/the_sun.htm#:~:text=The%20sun%20has%20a%20mass,hold%20over%201%20million%20Earths.
+Earth info - https://en.wikipedia.org/wiki/Earth_mass
+Gravitational Constant and Equations - https://en.wikipedia.org/wiki/Gravitational_constant
+Geometric Calculations (Angle) - https://stackoverflow.com/questions/29259124/java-determin-angle-between-two-points
+
+================================================================================================================================================
+
+Inspiration for Idea:
+
+https://www.youtube.com/watch?v=pxIna3ddRUg
+
+================================================================================================================================================
+
+Inspiration for FPS control, updates and G2D library tutorial
+
+https://www.youtube.com/watch?v=om59cwR7psI
+https://docs.oracle.com/javase/8/docs/technotes/guides/2d/spec/j2d-intro.html
+https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
+
+================================================================================================================================================
+
